@@ -71,11 +71,13 @@ Before running the application, ensure you have the following installed:
 4.  View the current temperature, weather description, and corresponding emoji.
 
 ## 🗂️ Project Structure
+```
 weather-app/
 ├── weather_app.py # Main application script
 ├── iconImage.png # Application window icon
 ├── AppCapture.PNG # Screenshot of the app
 └── README.md # This file
+```
 
 
 ## 🧩 Code Overview
