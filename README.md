@@ -29,7 +29,7 @@ Before running the application, ensure you have the following installed:
 
 1.  **Clone the repository** (or download the source files):
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/GitUseHubber/WeatherApp.git
     cd weather-app
     ```
 
