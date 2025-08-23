@@ -37,7 +37,7 @@ Before running the application, ensure you have the following installed:
     ```
 
 2.  **Install the dependencies**:
-    *Intall libraries:*
+    *Install required libraries using pip:*
     ```bash
     pip install pygame
     pip install PyQt6
