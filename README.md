@@ -22,8 +22,11 @@ A sleek and simple desktop weather application built with Python and PyQt6. It f
 
 Before running the application, ensure you have the following installed:
 
-*   Python 3.x
-*   The required Python libraries listed in `requirements.txt`.
+- Python 3.x
+- Python libraries:
+  - `PyQt6`
+  - `requests`
+  - `pygame`
 
 ## 📦 Installation & Setup
 
@@ -34,13 +37,11 @@ Before running the application, ensure you have the following installed:
     ```
 
 2.  **Install the dependencies**:
-    It is recommended to use a virtual environment. Install the required packages using pip:
+    *Intall libraries:*
     ```bash
-    pip install -r requirements.txt
-    ```
-    *Alternatively, install them manually:*
-    ```bash
-    pip install requests PyQt6
+    pip install pygame
+    pip install PyQt6
+    pip install requests
     ```
 
 3.  **Get an API Key**:
