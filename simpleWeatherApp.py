@@ -8,7 +8,7 @@ from PyQt6.QtGui import QIcon,QPixmap,QFont
 
 
 
-api_key = "1f1783fbb67474f05985dd5df8c8d576"
+api_key = "your_api_key"
 class AppWindow(QWidget):
     def __init__(self):
         super().__init__()
